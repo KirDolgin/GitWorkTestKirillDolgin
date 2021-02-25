@@ -1,0 +1,2 @@
+# GitWorkTestKirillDolgin
+Git practice assignment
