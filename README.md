@@ -2,7 +2,7 @@
 ## HW
 
 
-**Article Link **: https://sdtimes.com/security/google-to-fund-two-full-time-linux-kernel-security-developers/ 
+**Article Link**: https://sdtimes.com/security/google-to-fund-two-full-time-linux-kernel-security-developers/ 
 
 **Article Name** Google to fund two full-time Linux kernel security developers
 
